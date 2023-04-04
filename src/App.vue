@@ -194,7 +194,7 @@ h1 {
 }
 
 .option.correct {
-	background-color: #2cce7d;
+	background-color: #2ed381;
 }
 
 .option.wrong {
